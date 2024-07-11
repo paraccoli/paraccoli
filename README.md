@@ -30,9 +30,8 @@ I'm currently focusing on:
 
 ## My Projects
 Here are some projects I'm working on as I learn:
-1. [Project Name 1](link-to-repo) - Brief description
-2. [Project Name 2](link-to-repo) - Brief description
-3. [Project Name 3](link-to-repo) - Brief description
+1. [WaveformApp](https://github.com/xM1guel/WaveformApp) - This Python application uses PyQtGraph and Numpy to display waveforms in real-time.
+2. [SummaryApp](https://github.com/xM1guel/SummaryApp) - This application is a multilingual tool that automatically summarizes the contents of the text, Word, and PDF files.
 
 ## What I'm Learning Next
 - Advanced Machine Learning techniques
@@ -41,11 +40,6 @@ Here are some projects I'm working on as I learn:
 
 ## Connect With Me
 - [Zenn](https://zenn.dev/miguel)
-- [LinkedIn](Your LinkedIn profile link)
-- [Twitter](Your Twitter profile link)
-
-## Fun Fact
-Did you know? [Insert an interesting fact about yourself or your field of study]
 
 ---
 
