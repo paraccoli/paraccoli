@@ -54,6 +54,7 @@ Here are some projects I'm working on as I learn:
 
 ## Connect With Me
 - [Zenn](https://zenn.dev/miguel)
+- [X](https://x.com/Paraccoli)
 
 ---
 💡 "The only way to do great work is to love what you do." - Steve Jobs
