@@ -2,6 +2,10 @@
 
 # Hello, I'm Miguel 👋
 
+![GitHub followers](https://img.shields.io/github/followers/xM1guel?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/xM1guel?style=social)
+[![Zenn Badge](https://zenn.badge.nikaera.com/s/miguel/articles?style=plastic)](https://zenn.dev/miguel)
+
 ## About Me
 - 🎓 Information Engineering Student
 - 💻 Aspiring Machine Learning Engineer
@@ -10,13 +14,11 @@
 
 ## My Learning Journey
 I'm currently focusing on:
-- 🤖 Machine Learning fundamentals ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- 🤖 Machine Learning fundamentals
 - 🔒 Cybersecurity basics and CTF challenges
-- 🌐 Full-stack web development ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
+- 🌐 Full-stack web development
 
 ## Skills I'm Developing
-
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -29,6 +31,17 @@ I'm currently focusing on:
 <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali-linux" width="40" height="40"/>
 </p>
 
+## GitHub Stats
+
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=xM1guel&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xM1guel&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xM1guel&theme=dark)](https://git.io/streak-stats)
+
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=xM1guel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## My Projects
 Here are some projects I'm working on as I learn:
 1. [WaveformApp](https://github.com/xM1guel/WaveformApp) - This Python application uses PyQtGraph and Numpy to display waveforms in real-time.
@@ -40,7 +53,7 @@ Here are some projects I'm working on as I learn:
 - Cloud computing basics
 
 ## Connect With Me
-- [Zenn](https://zenn.dev/miguel)[![Articles](https://badgen.org/img/zenn/miguel/articles?style=social)](https://zenn.dev/miguel)
----
+- [Zenn](https://zenn.dev/miguel)
 
+---
 💡 "The only way to do great work is to love what you do." - Steve Jobs
