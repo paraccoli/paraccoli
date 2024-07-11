@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/yourusername/yourrepository/main/images/cute-twitch-off_64557276.png)
+![Banner](https://github.com/xM1guel/xM1guel/blob/main/Banner.png)
 
 # Hello, I'm Miguel 👋
 
