@@ -10,9 +10,10 @@
 
 ## My Learning Journey
 I'm currently focusing on:
-- 🤖 Machine Learning fundamentals
+- 🤖 Machine Learning fundamentals ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - 🔒 Cybersecurity basics and CTF challenges
-- 🌐 Full-stack web development
+- 🌐 Full-stack web development ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 ## Skills I'm Developing
 
@@ -39,8 +40,7 @@ Here are some projects I'm working on as I learn:
 - Cloud computing basics
 
 ## Connect With Me
-- [Zenn](https://zenn.dev/miguel)
-
+- [Zenn](https://zenn.dev/miguel)[![Articles](https://badgen.org/img/zenn/miguel/articles?style=social)](https://zenn.dev/miguel)
 ---
 
 💡 "The only way to do great work is to love what you do." - Steve Jobs
