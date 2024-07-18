@@ -33,9 +33,6 @@ I'm currently focusing on:
 
 ## GitHub Stats
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=xM1guel&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xM1guel&layout=compact&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xM1guel&theme=dark)](https://git.io/streak-stats)
 
