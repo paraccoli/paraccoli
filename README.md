@@ -1,13 +1,12 @@
 ![Banner](https://github.com/xM1guel/xM1guel/blob/main/banner.jpg)
 
-# Hello, I'm Miguel 👋
+# Hello, I'm Paraccoli 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/xM1guel?label=Followers&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/xM1guel?style=social)
 [![Zenn Badge](https://zenn.badge.nikaera.com/s/miguel/articles?style=plastic)](https://zenn.dev/miguel)
 
 ## About Me
-- 🎓 Information Engineering Student
 - 💻 Aspiring Machine Learning Engineer
 - 🔐 CTF Enthusiast
 - 🌱 Always eager to learn and grow in tech
@@ -40,9 +39,7 @@ I'm currently focusing on:
 [![trophy](https://github-profile-trophy.vercel.app/?username=paraccoli&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Projects
-Here are some projects I'm working on as I learn:
-1. [WaveformApp](https://github.com/paraccoli/WaveformApp) - This Python application uses PyQtGraph and Numpy to display waveforms in real-time.
-2. [SummaryApp](https://github.com/paraccoli/SummaryApp) - This application is a multilingual tool that automatically summarizes the contents of the text, Word, and PDF files.
+coming soon ...
 
 ## What I'm Learning Next
 - Advanced Machine Learning techniques
