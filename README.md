@@ -2,8 +2,8 @@
 
 # Hello, I'm Paraccoli 👋
 
-![GitHub followers](https://img.shields.io/github/followers/xM1guel?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/xM1guel?style=social)
+![GitHub followers](https://img.shields.io/github/followers/paraccoli?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/paraccoli?style=social)
 [![Zenn Badge](https://zenn.badge.nikaera.com/s/miguel/articles?style=plastic)](https://zenn.dev/miguel)
 
 ## About Me
