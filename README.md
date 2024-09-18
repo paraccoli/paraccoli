@@ -34,15 +34,15 @@ I'm currently focusing on:
 ## GitHub Stats
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xM1guel&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paraccoli&theme=dark)](https://git.io/streak-stats)
 
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=xM1guel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=paraccoli&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Projects
 Here are some projects I'm working on as I learn:
-1. [WaveformApp](https://github.com/xM1guel/WaveformApp) - This Python application uses PyQtGraph and Numpy to display waveforms in real-time.
-2. [SummaryApp](https://github.com/xM1guel/SummaryApp) - This application is a multilingual tool that automatically summarizes the contents of the text, Word, and PDF files.
+1. [WaveformApp](https://github.com/paraccoli/WaveformApp) - This Python application uses PyQtGraph and Numpy to display waveforms in real-time.
+2. [SummaryApp](https://github.com/paraccoli/SummaryApp) - This application is a multilingual tool that automatically summarizes the contents of the text, Word, and PDF files.
 
 ## What I'm Learning Next
 - Advanced Machine Learning techniques
