@@ -1,4 +1,4 @@
-![Banner](https://github.com/xM1guel/xM1guel/blob/main/Banner.png)
+![Banner](https://github.com/xM1guel/xM1guel/blob/main/banner.jpg)
 
 # Hello, I'm Miguel 👋
 
