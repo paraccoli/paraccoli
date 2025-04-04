@@ -4,7 +4,7 @@
 
 ---
 
-# 👋 Paraccoli の世界へようこそ / Welcome to Paraccoli's World
+# 👋 Paraccoli Github へようこそ / Welcome to Paraccoli's Github
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/paraccoli?label=Followers&style=social" alt="GitHub Followers">
