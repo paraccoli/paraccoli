@@ -85,17 +85,24 @@ LiDARベースの3D点群シーケンスを用いた自動運転向けの高度�
 ## GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paraccoli&theme=dark&hide_border=true" alt="GitHub Streak" height="170">
-  <img src="https://github-readme-stats.vercel.app/api?username=paraccoli&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paraccoli&theme=github-compact&hide_border=true" alt="Contribution Graph">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paraccoli&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paraccoli&theme=nord_dark" alt="GitHub Profile Summary">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paraccoli&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paraccoli&theme=nord_dark" alt="GitHub Stats" height="170">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paraccoli&theme=nord_dark&utcOffset=9" alt="Productive Time" height="170">
 </div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paraccoli&theme=nord_dark" alt="Repos Per Language" height="170">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paraccoli&theme=nord_dark" alt="Most Commit Language" height="170">
+</div>
+
+
 
 ## Connect
 
