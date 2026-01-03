@@ -4,121 +4,108 @@
 
 ---
 
-# 👋 Paraccoli Github へようこそ / Welcome to Paraccoli's Github
-
 <div align="center">
-  <img src="https://img.shields.io/github/followers/paraccoli?label=Followers&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/paraccoli?style=social" alt="GitHub Stars">
-  <a href="https://zenn.dev/miguel"><img src="https://zenn.badge.nikaera.com/s/miguel/articles?style=plastic" alt="Zenn Badge"></a>
+  <h1>Paraccoli</h1>
+  <p>Graduate Student in Computer Science | Machine Learning Research</p>
+  <p>Specializing in Computer Vision, Autonomous Driving & 3D Object Detection</p>
+  
+  <a href="https://portfolio.paraccoli.com"><img src="https://img.shields.io/badge/Portfolio-paraccoli.com-blue?style=flat-square" alt="Portfolio"></a>
+  <a href="https://zenn.dev/miguel"><img src="https://img.shields.io/badge/Zenn-miguel-3EA8FF?style=flat-square&logo=zenn&logoColor=white" alt="Zenn"></a>
+  <a href="https://x.com/Paraccoli"><img src="https://img.shields.io/badge/X-@Paraccoli-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <img src="https://img.shields.io/github/followers/paraccoli?label=Followers&style=flat-square" alt="GitHub Followers">
 </div>
 
 ---
 
-## 🌍 日本語 / Japanese
+## About Me
 
-### 自己紹介
-- 💻 機械学習エンジニアを目指しています  
-- 🔐 CTF（キャプチャー・ザ・フラッグ）の熱心な参加者  
-- 🌱 常に技術を学び、成長することに情熱を注いでいます  
+コンピュータビジョンと自動運転技術の研究に取り組んでいます．深層学習を用いた3D物体検出，LiDAR点群処理，Vision Transformersの実装に関心があり，実用的なリアルタイムシステムの構築を目指しています．
 
-### 現在の学びの旅
-今注力している分野:  
-- 🤖 機械学習の基礎  
-- 🔒 サイバーセキュリティの基本とCTFチャレンジ  
-- 🌐 フルスタックWeb開発  
+Graduate student researching computer vision and autonomous driving systems. My work focuses on 3D object detection using deep learning, LiDAR point cloud processing, and Vision Transformer implementations for real-time applications.
 
-### スキル開発中
+## Research Areas
+
+**Computer Vision & Deep Learning**
+- 3D Object Detection & Tracking with LiDAR Point Clouds
+- Vision Transformers (ViT, DETR) for Perception Tasks
+- Neural Network Optimization & Lightweight Model Design
+- Diffusion Models & Image Inpainting
+
+**Autonomous Driving**
+- Real-time Perception Systems in CARLA Simulation
+- Multi-object Tracking for Pedestrians and Vehicles
+- Sensor Fusion & Multi-modal Learning
+- End-to-End Learning for Autonomous Navigation
+
+## Technical Stack
+
+### Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali-linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </p>
 
-### プロジェクト
-- 🚗 **物体検出システムの研究**: ニューラルネットワークを活用し、自動運転シミュレーション向けの高精度な認識モデルを開発  
-- 🛠️ **CARLAシミュレータでの開発**: CARLA上で動作する高精度な物体検出モデルの構築  
-- 🤖 **深層強化学習による制御**: 自動運転車両の挙動を深層強化学習で最適化する研究  
-- 📊 **機械学習プラットフォーム**: 実験管理とモデル評価を効率化するツールの開発  
-
-### 今後の学び
-- 高度な機械学習技術  
-- Webアプリケーションセキュリティ  
-- クラウドコンピューティングの基礎  
-
-### 連絡先
-- [Zenn](https://zenn.dev/miguel)  
-- [X](https://x.com/Paraccoli)  
-
----
-
-## 🌎 英語 / English
-
-### About Me
-- 💻 Aspiring Machine Learning Engineer  
-- 🔐 CTF Enthusiast  
-- 🌱 Always eager to learn and grow in tech  
-
-### My Learning Journey
-Currently focusing on:  
-- 🤖 Machine Learning fundamentals  
-- 🔒 Cybersecurity basics and CTF challenges  
-- 🌐 Full-stack web development  
-
-### Skills I'm Developing
+### Frameworks & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali-linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
-### My Projects
-- 🚗 **Object Detection Research**: Developing a high-precision recognition model using neural networks for autonomous driving simulations  
-- 🛠️ **CARLA Simulator Development**: Building a high-accuracy object detection model on the CARLA simulator  
-- 🤖 **Deep Reinforcement Learning Control**: Researching behavior control for autonomous vehicles using deep reinforcement learning  
-- 📊 **ML Experiment Platform**: Creating a platform to streamline machine learning experiment management and model evaluation  
+**ML/DL:** PyTorch, TensorFlow, PointNet/PointNet++, Transformers  
+**Simulation:** CARLA Simulator  
+**Development:** React, Next.js, Vue.js, Flask  
+**Security:** CTF (Beginner)  
+**Tools:** Git, Google Colab, VS Code, LaTeX, Overleaf
 
-### What I'm Learning Next
-- Advanced Machine Learning techniques  
-- Web application security  
-- Cloud computing basics  
+## Featured Projects
 
-### Connect With Me
-- [Zenn](https://zenn.dev/miguel)  
-- [X](https://x.com/Paraccoli)  
+**個人Webサイト構築**  
+研究成果，プロジェクト，技術記事を紹介するポートフォリオサイト．React，Next.jsなどを用いて構築・運用しています．
 
----
+**Money:G -資産管理アプリ-**  
+Money:Gは，個人の家計管理を効率化するFlutter製モバイルアプリです．支出・収入の記録，予算管理，NISA投資追跡，CSV インポート/エクスポート機能を備え，グラフとレポートで資産状況を可視化します．
 
-## 📊 GitHub Stats & Trophies
+**EfficientUnMarker**  
+拡散モデルと画像inpaintingネットワークを用いたウォーターマーク除去技術の研究プロジェクト．深層学習アプローチによるデジタルウォーターマーキングシステムへの敵対的攻撃を調査し，ウォーターマーク保護手法の堅牢性評価と対策手法の開発に焦点を当てた研究をしています．
+
+**時系列3D点群データを用いた歩行者個別追跡システムの試作**  
+LiDARベースの3D点群シーケンスを用いた自動運転向けの高度な追跡システム．PointNetによる特徴抽出，LSTMによる時系列モデリング，カルマンフィルタを組み合わせ，密集した都市環境における複数歩行者の頑健な追跡を実現．特に疎な点群条件においてTransformerベースの3DETRを上回る性能を達成し，ID一貫性と軌跡の滑らかさを維持する時系列モデリングの有効性をCARLAシミュレーション環境で実証しています．今後は，3DETRに加えてPointNet++など他の点群検出モデルとの比較や，局所特徴を保持できるアーキテクチャおよび非線形・距離依存ノイズを考慮した追跡手法への拡張を行い，この手法の優位性と限界をより網羅的に検証します．
+
+## GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paraccoli&theme=dark" alt="GitHub Streak">
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=paraccoli&theme=onedark" alt="GitHub Trophies">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paraccoli&theme=dark&hide_border=true" alt="GitHub Streak" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=paraccoli&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paraccoli&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages">
+</div>
 
-## 💡 Favorite Quote
-> "The only way to do great work is to love what you do." - Steve Jobs
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=paraccoli&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+</div>
+
+## Connect
+
+- **Portfolio:** [portfolio.paraccoli.com](https://portfolio.paraccoli.com)
+- **Technical Blog:** [zenn.dev/miguel](https://zenn.dev/miguel)
+- **X/Twitter:** [@Paraccoli](https://x.com/Paraccoli)
+- **Email:** contact@paraccoli.com
 
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by Paraccoli</sub>
+  <sub>Tokyo, Japan | Last updated: January 2026</sub>
 </div>
