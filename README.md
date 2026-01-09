@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="https://github.com/xM1guel/xM1guel/blob/main/banner.jpg" alt="Banner" width="100%">
+
 </div>
-
----
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=5005&pause=1000&color=11F772&center=true&vCenter=true&width=1100&lines=Paraccoli+Github;Researching+computer+vision;Autonomous+Driving+Systems" alt="Typing SVG" /></a>
 <div align="center">
-  <h1>Paraccoli</h1>
   <p>Graduate Student in Computer Science | Machine Learning Research</p>
   <p>Specializing in Computer Vision, Autonomous Driving & 3D Object Detection</p>
   
