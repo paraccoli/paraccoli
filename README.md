@@ -6,7 +6,7 @@
   <p>Graduate Student in Computer Science | Machine Learning Research</p>
   <p>Specializing in Computer Vision, Autonomous Driving & 3D Object Detection</p>
   
-  <a href="https://portfolio.paraccoli.com"><img src="https://img.shields.io/badge/Portfolio-paraccoli.com-blue?style=flat-square" alt="Portfolio"></a>
+  <a href="https://portfolio.paraccoli.net"><img src="https://img.shields.io/badge/Portfolio-paraccoli.com-blue?style=flat-square" alt="Portfolio"></a>
   <a href="https://zenn.dev/miguel"><img src="https://img.shields.io/badge/Zenn-miguel-3EA8FF?style=flat-square&logo=zenn&logoColor=white" alt="Zenn"></a>
   <a href="https://x.com/Paraccoli"><img src="https://img.shields.io/badge/X-@Paraccoli-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <img src="https://img.shields.io/github/followers/paraccoli?label=Followers&style=flat-square" alt="GitHub Followers">
